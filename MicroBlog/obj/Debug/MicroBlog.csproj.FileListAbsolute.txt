@@ -1,0 +1,5 @@
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\MicroBlog\MicroBlog\bin\MicroBlog.dll
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\MicroBlog\MicroBlog\bin\MicroBlog.pdb
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\MicroBlog\MicroBlog\obj\Debug\MicroBlog.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\MicroBlog\MicroBlog\obj\Debug\MicroBlog.dll
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\MicroBlog\MicroBlog\obj\Debug\MicroBlog.pdb
